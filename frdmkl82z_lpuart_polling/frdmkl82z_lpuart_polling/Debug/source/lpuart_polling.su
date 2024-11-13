@@ -1,0 +1,5 @@
+D:\Embedded C\frdmkl82z_lpuart_polling\frdmkl82z_lpuart_polling\drivers/fsl_clock.h:681:20:CLOCK_SetLpuartClock	16	static
+D:\Embedded C\frdmkl82z_lpuart_polling\frdmkl82z_lpuart_polling\drivers/fsl_gpio.h:155:20:GPIO_PinWrite	24	static
+../source/lpuart_polling.c:35:6:delay1ms	8	static
+../source/lpuart_polling.c:44:6:delaynms	24	static
+../source/lpuart_polling.c:57:5:main	48	static
